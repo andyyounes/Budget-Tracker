@@ -1,7 +1,3 @@
-Here is a suggested `README.md` file for your **C++ Personal Budgeting System**, along with guidance for your **thesis image** placement and picture suggestions:
-
----
-
 ### 📘 `README.md` — Budget Management Program
 
 ```markdown
